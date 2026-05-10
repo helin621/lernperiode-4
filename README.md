@@ -34,5 +34,5 @@ Heute habe ich mit Devrim, Alex, Tobias und dem Joel einen guten Monitor auswäh
 
 
 ### Planung 22.05.2026
-[] Schauen ob ich noch Aufgaben zu erledigen habe
+[X] Schauen ob ich noch Aufgaben zu erledigen habe
 
