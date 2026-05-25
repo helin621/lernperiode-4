@@ -36,3 +36,14 @@ Heute habe ich mit Devrim, Alex, Tobias und dem Joel einen guten Monitor auswäh
 ### Planung 22.05.2026
 - [ ] Schauen ob ich noch Aufgaben zu erledigen habe
 
+
+## 22.05.2026
+### Feinplanung
+Heute habe ich vor mir den Moniter den wir ausgewählt haben anzuschauen, dannach müsste ich noch paar Dokumente aus dem Modul 122 erledigen und mir Gedanken über ein Projekt machen.
+
+### Reflexion
+Heute habe mir kurz den Monitor anschauen können aber ich muss ehrlich sein es ist jetzt nicht der beste deswegen haben wir uns um entschieden und suchen einen anderen, was halt auch bischen schwer wird bei unserem Budget aber mal sehen. Ich habe mir auf der Khan Academy Website die Übungen zu HTML nochmal angeschaut und dann auch noch zu CSS. Ich finde das auf der Website alles sehr schön erklärt wird tatsächlich, ich komme sehr gut mit. Insgesamt habe ich heute gut voran kommen können obwohl es mal hier und da kleine Ablenkungen gab, aber ich habe sehr gut Arbeit übers Wochenende abnehmen können.
+
+### Planung 22.05.2026
+- [ ] Schauen ob ich noch Aufgaben zu erledigen habe
+- [ ] An meinem Projekt für das Modul 122 weiter arbeiten
