@@ -34,7 +34,7 @@ Heute habe ich mit Devrim, Alex, Tobias und dem Joel einen guten Monitor auswäh
 
 
 ### Planung 22.05.2026
-- [ ] Schauen ob ich noch Aufgaben zu erledigen habe
+- [x] Schauen ob ich noch Aufgaben zu erledigen habe
 
 
 ## 22.05.2026
@@ -45,5 +45,17 @@ Heute habe ich vor mir den Moniter den wir ausgewählt haben anzuschauen, dannac
 Heute habe mir kurz den Monitor anschauen können aber ich muss ehrlich sein es ist jetzt nicht der beste deswegen haben wir uns um entschieden und suchen einen anderen, was halt auch bischen schwer wird bei unserem Budget aber mal sehen. Ich habe mir auf der Khan Academy Website die Übungen zu HTML nochmal angeschaut und dann auch noch zu CSS. Ich finde das auf der Website alles sehr schön erklärt wird tatsächlich, ich komme sehr gut mit. Insgesamt habe ich heute gut voran kommen können obwohl es mal hier und da kleine Ablenkungen gab, aber ich habe sehr gut Arbeit übers Wochenende abnehmen können.
 
 ### Planung 22.05.2026
-- [ ] Schauen ob ich noch Aufgaben zu erledigen habe
+- [x] Schauen ob ich noch Aufgaben zu erledigen habe
 - [ ] An meinem Projekt für das Modul 122 weiter arbeiten
+
+
+## 29.05.2026
+### Feinplanung
+Heute habe ich vor mit dem Arduino bischen zu experimentieren. Ich hatte die Idee mal auszuprbieren ob man Lieder wie bei einer Musikbox abspielen könnte.
+
+### Reflexion
+Heute haben wir erst am Anfang der Lektion alle einen Arduino bekommen, da ich das so spannend fand kam ich direkt auf die Idee mal etwas daran zu experimentieren. Ich habe mir überlegt ob es möglich wäre Lieder drauf abzuspielen. Ich habe dann micht erstmal darüber schlau gemacht wie das gehen könnte da der Arduiono selbtst nicht einen Lautsprecher hatte und auch noch andere Teile fehlten. Als ich sie mir dann vom Herr Thut geholt habe ich direkt mit dem zusammenbau der Teile gestartet und denn Code für das Programm. Nach einer Zeit ging es dann endlich aber dann kam man auf die Melodie auf manuell durch Knopfdruck optimieren könnte. Ich habe lange geschaut wie man das machen kann aber hatte noch keine Lösung dafür gefunden dieses mal... Ich finde das ich heute sehr konzentriert arbeiten konnte es hatte mir spass gemacht zu verstehen wie der arduino funktioniert und auch der Code des Programms auch wenn ich lange dafür brauchte allein schon für die Verbindung des Laptops und dem Arduino her zustellen. Ich möchte das nächste mal gerne weiter machen da es noch viele mehr möglichkeiten gibt 
+
+### Planung 22.05.2026
+- [ ] Schauen ob ich noch Aufgaben zu erledigen habe
+- [ ] Arduino weiter experimentieren
